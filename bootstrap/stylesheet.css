@@ -1,0 +1,9 @@
+.jumbotron {
+    background-color: darkslategray;
+    color: coral;
+}
+
+.col-sm-12 {
+
+    border-style: dashed;
+}
